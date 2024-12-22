@@ -13,7 +13,7 @@ Navigate to the project folder `hotel` and install the dependencies:
 cd hotel
 npm install
 ```
-## 3. Start the json server using command 
+### 3. Start the json server using command 
 Run the command to start the JSON server:
 ``` bash
 npx json-server --watch hotels.json --port 5000
@@ -21,7 +21,7 @@ npx json-server --watch hotels.json --port 5000
 The JSON server will be available at:
 API Endpoint: http://localhost:5000/hotels
 
-## 4. Start the application 
+### 4. Start the application 
 Start the React application using the command: 
 ```bash
 npm start
