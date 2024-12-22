@@ -9,7 +9,7 @@ cd hotel
 npm install
 
 ## 3. Start the json server using command 
-Run the below command to start the JSON server:
+Run the command to start the JSON server:
 npx json-server --watch hotels.json --port 5000
 The JSON server will be available at:
 API Endpoint: http://localhost:5000/hotels
