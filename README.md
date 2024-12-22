@@ -1,10 +1,15 @@
 # Hotel App
 This is a React application that displays a list of hotels and shows detailed information about a single hotel when selected. . The application fetches data from a JSON server and renders it on the frontend. Please find  the instructions below to set up and run the application locally.
 
-## 1. Clone the Repository
+### 1. Clone the Repository
+
 Clone the project repository to your local machine.
 
-## 2. Navigate to the folder hotel and install the dependencies
+### 2. Navigate to the Folder
+
+Navigate to the project folder `hotel` and install the dependencies:
+
+```bash
 cd hotel
 npm install
 
