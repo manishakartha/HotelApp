@@ -5,12 +5,11 @@ This is a React application that displays a list of hotels and shows detailed in
 
 Clone the project repository to your local machine.
 
-### 2. Navigate to the Folder
+### 2. Install the dependencies
 
-Navigate to the project folder `hotel` and install the dependencies:
+Install the dependencies:
 
 ```bash
-cd hotel
 npm install
 ```
 ### 3. Start the json server using command 
